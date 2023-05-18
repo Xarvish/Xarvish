@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help in learning AI projects
 - 💬 Ask me about Data Extraction, Data analysis using Python
--->
