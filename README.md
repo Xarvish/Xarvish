@@ -1,5 +1,5 @@
 ### Hi👋, I'm Akash Sharma
-## Student, Tech enthusiastic
+## Student @IITM, Tech enthusiastic
 
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Python Projects
